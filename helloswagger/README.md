@@ -1,0 +1,6 @@
+创建Springboot项目
+用Swagger来完成接口功能测试
+简单的集成Swagger只能扫描指定的包
+没有实现像SpringCloud那样的多包扫描
+2028-12-19
+峰
